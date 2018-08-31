@@ -1,3 +1,4 @@
+# Creates a custom dog for the simulation
 from tkinter import *
 from PIL import Image, ImageDraw, ImageTk
 import os
