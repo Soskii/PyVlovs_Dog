@@ -251,9 +251,6 @@ len_obj = 0
 var = [0, 0, 0, 0, 0, 0]
 
 
-# def collision(arbiter, space, data):
-#     print(data)
-#     print("howdidly")
 
 
 def update_sim(dog):
