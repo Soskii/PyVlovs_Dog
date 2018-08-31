@@ -1,3 +1,4 @@
+# Placeholder for the neural network for testing purposes. Will substitute once Will has finished it
 import random
 
 def pol_net():
