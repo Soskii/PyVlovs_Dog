@@ -1,3 +1,4 @@
+# Handles the simulation window
 import pygame
 import pymunk
 import ast
