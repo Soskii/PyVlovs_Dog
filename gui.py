@@ -1,3 +1,4 @@
+# Handles the GUI window
 from tkinter import *
 import tkinter.ttk as tk
 import sim_window
